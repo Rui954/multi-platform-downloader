@@ -284,6 +284,8 @@ STARTUP_NOTICE_HTML = """
 <li>禁止下载、传播任何违法违规内容。</li>
 <li>请勿绕过平台的付费机制获取受版权保护的内容。</li>
 <li>使用本工具所产生的任何后果由使用者自行承担。</li>
+<li>本程序已在github上开源，欢迎贡献代码和提出建议。</li>
+<li><a href="https://github.com/Rui954/multi-platform-downloader" target="_blank">项目链接</a></li>
 </ul>
 
 <p style='color:#6B7280; font-size:12px; line-height:1.7; margin-top:16px;'>
