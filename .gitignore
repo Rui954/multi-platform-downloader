@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller
+*.spec
+*.manifest
+
+# 用户数据 / 凭证（绝对不能提交）
+.multi_dl/
+bili_credential.json
+cookies.txt
+
+# 下载内容
+*.mp4
+*.m4s
+*.mp3
+Downloads/
+
+# 第三方源码（由用户自己 clone）
+third_party/*
+!third_party/.gitkeep
+
+# 二进制文件（体积大，用户自己下载）
+bin/*
+!bin/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+startup_error.log
+
+pyrightconfig.json
