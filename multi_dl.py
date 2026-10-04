@@ -203,6 +203,8 @@ DISCLAIMER_HTML = """
 <li>请遵守各平台的《用户协议》与《服务条款》。</li>
 <li>禁止下载、传播任何违法违规内容。</li>
 <li>请勿绕过平台的付费机制获取受版权保护的内容。</li>
+<li>本程序已在github上开源，欢迎贡献代码和提出建议。</li>
+<li><a href="https://github.com/Rui954/multi-platform-downloader" target="_blank">项目链接</a></li>
 </ul>
 
 <h3 style='color:#374151;'>技术注意事项</h3>
