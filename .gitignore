@@ -46,3 +46,5 @@ Thumbs.db
 startup_error.log
 
 pyrightconfig.json
+
+build.bat
